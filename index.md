@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "前端学习"
-  text: "终身学习"
-  tagline: My great project tagline
+  name: "代码与像素：前端手札"
+  text: 构建知识库
+  tagline: 好记性不如烂笔头
+  image:
+    src: /background.png
+    alt: 背景图片
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 示例
+      link: /
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 测试
+      link: /
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 第一个
+    details: A详细描述
+  - title: 第二个
+    details: B详细描述
+  - title: 第三个
+    details: C详细描述
 ---
 
